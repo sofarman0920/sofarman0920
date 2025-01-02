@@ -44,7 +44,6 @@
 
 
 ## **📫 Contact**
-- Email: sofarman0920@gmail.com  
-- Location: 경기도 안산시 단원구 지곡로 3길 12  
+- Email: sofarman0920@gmail.com 
 
 ---
